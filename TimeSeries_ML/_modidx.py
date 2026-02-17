@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://bthek1.github.io',
                 'git_url': 'https://github.com/bthek1/TimeSeries_ML',
                 'lib_path': 'TimeSeries_ML'},
-  'syms': {'TimeSeries_ML.core': {'TimeSeries_ML.core.foo': ('core.html#foo', 'TimeSeries_ML/core.py')}}}
+  'syms': {}}
