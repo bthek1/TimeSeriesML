@@ -7,3 +7,8 @@ website:
   description: "Machine Learning Time Series Analysis"
   repo-branch: main
   repo-url: "https://github.com/bthek1/TimeSeries_ML"
+
+format-links:
+  - html
+  - format: commonmark
+    text: Markdown
